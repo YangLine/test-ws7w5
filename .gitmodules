@@ -1,0 +1,3 @@
+[submodule "ext"]
+	path = ext
+	url = https://git.gammaspectra.live/git/go-away.git
